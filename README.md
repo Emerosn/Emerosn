@@ -17,7 +17,7 @@
 
 <p> ❤ Views and Followers</p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<p>
+<p align='center'>
 <img src="https://komarev.com/ghpvc/?username=Emerosn">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Emerosn?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
@@ -36,7 +36,6 @@
 <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" />
 <img width=50 height=50 src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <img width=50 height=50 src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-22.png" />
-<img width=50 height=50 src="https://github.com/Emerosn/Emerosn/assets/81188924/70c533d3-45bc-4946-b7be-6f4633bb90e4" />
 
 
   
