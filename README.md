@@ -17,19 +17,13 @@
 
 <p> ❤ Views and Followers</p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Emerosn">
+    <img src="https://komarev.com/ghpvc/?username=Emerosn">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/followers/Emerosn?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge">
 </a>
 
  
 <h1></h1>
-ㅤ
-<br>
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=Emerosn">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Emerosn?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
-</p>
-<br>
 
 <div align="center">
 
