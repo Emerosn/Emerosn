@@ -17,7 +17,7 @@
 
 <p> ❤ Views and Followers</p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=DennisNgrox">
+    <img src="https://komarev.com/ghpvc/?username=Emerosn">
 </a>
 
  
@@ -40,7 +40,7 @@
 <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" />
 <img width=50 height=50 src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <img width=50 height=50 src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-22.png" />
-<img width=50 height=50 src="https://github.com/DennisNgrox/DennisNgrox/assets/81188924/70c533d3-45bc-4946-b7be-6f4633bb90e4" />
+<img width=50 height=50 src="https://github.com/Emerosn/Emerosn/assets/81188924/70c533d3-45bc-4946-b7be-6f4633bb90e4" />
 
 
   
@@ -54,10 +54,8 @@
 </p>
 
 <p align=center>
-    <a href="https://github.com/DennisNgrox">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dennis" src="https://github-readme-streak-stats.herokuapp.com/?user=DennisNgrox&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-        <a href="https://github.com/DennisNgrox"><img alt="Dennis Top Languages" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisNgrox&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+    <a href="https://github.com/Emerosn">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dennis" src="https://github-readme-streak-stats.herokuapp.com/?user=Emerosn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <a href="https://github.com/Emerosn"><img alt="Dennis Top Languages" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerosn&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
     </a>
 </p>
-
-
