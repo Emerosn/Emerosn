@@ -10,8 +10,6 @@
 - Tasks Automatization
 - Zabbix Specialist
 - Network troubleshooting
-- Security bug fixes
-- Programmer
 - Passionate about technology
 - Tecnologies: Linux, Zabbix, Grafana, Cloud, Shell Script, Python, Docker and others...
 
